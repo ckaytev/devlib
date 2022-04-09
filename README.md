@@ -10,10 +10,14 @@
 
 [Никогда не ешьте в одиночку](https://www.litres.ru/keyt-ferracci/nikogda-ne-eshte-v-odinochku-i-drugie-pravila-netvorkinga/chitat-onlayn/)
 
-**Scrum. Революционный метод управления проектами.** Джефф Сазерленд.
+**Scrum. Революционный метод управления проектами.** Джефф Сазерленд
 
-**Постигая Agile: ценности, принципы и методологии.** Эндрю Стеллман и Дженнифер Грин.
+**Постигая Agile: ценности, принципы и методологии.** Эндрю Стеллман и Дженнифер Грин
 
 [Оригинальный Манифест Agile](http://agilemanifesto.org/principles.html)
 
 **Pro Git** Скотт Шакон
+
+**Бережливое производство: Как избавиться от потерь и добиться процветания вашей компании.** Джеймс П. Вумек, Дэниел Джонс
+
+Видео [How Toyota Changed The Way We Make Things](https://www.youtube.com/watch?v=F5vtCRFRAK0)
