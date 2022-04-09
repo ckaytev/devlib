@@ -25,3 +25,12 @@
 **Continuous delivery. Практика непрерывных апдейтов.** Эберхард Вольф
 
 **Непрерывное развёртывание ПО. Автоматизация процессов сборки, тестирования и внедрения новых версий программ.** Джез Хамбл
+
+
+## Instructions
+
+[Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
+
+[Презентация «Классические ошибки и лайфхаки Git»](https://code.s3.yandex.net/devops/GIT_ver2_prez2.pdf)
+
+[Шпаргалка по основным командам](https://docs.google.com/spreadsheets/d/1b6cOeO8Y8qOngQhHopypgTLHkUkLvvSYyc4rFHPX8cM/edit?usp=sharing)
