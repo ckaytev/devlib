@@ -9,6 +9,8 @@
 
 [Тренажер по Git](https://learngitbranching.js.org/?locale=ru_RU)
 
+[Фреймворк для работы с Git](https://pre-commit.com/#intro)
+
 ## Books
 [Deadline. Роман об управлении проектами](https://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/)
 
