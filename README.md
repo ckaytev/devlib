@@ -36,7 +36,7 @@
 
 [Мастер-класс Бориса Вольфсона. Основы Agile.](https://habr.com/ru/company/vk/blog/272237/)
 
-
+[О применении Jenkins](https://habr.com/ru/company/yoomoney/blog/538664/)
 
 
 ## Instructions
