@@ -11,6 +11,8 @@
 
 [Фреймворк для работы с Git](https://pre-commit.com/#intro)
 
+[Открытый сонар](https://sonarcloud.io/explore/projects) Можно бесплатно использовать для опенсорс-продуктов или посмотреть, как выглядят отчёты на примере других команд.
+
 ## Books
 [Deadline. Роман об управлении проектами](https://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/)
 
@@ -38,6 +40,7 @@
 
 [О применении Jenkins](https://habr.com/ru/company/yoomoney/blog/538664/)
 
+[Сравнение GitLab и SonarQube](https://about.gitlab.com/devops-tools/sonarqube-vs-gitlab/)
 
 ## Instructions
 
@@ -48,3 +51,7 @@
 [Шпаргалка по основным командам](https://docs.google.com/spreadsheets/d/1b6cOeO8Y8qOngQhHopypgTLHkUkLvvSYyc4rFHPX8cM/edit?usp=sharing)
 
 [Cheat-sheet с полезными Git командами](https://education.github.com/git-cheat-sheet-education.pdf)
+
+[SAST от GitLab](https://docs.gitlab.com/ee/user/application_security/sast/)
+
+[Настройка анализа проекта в SonarQube для Maven](https://docs.sonarqube.org/latest/analysis/gitlab-integration/)
