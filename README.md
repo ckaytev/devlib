@@ -13,6 +13,8 @@
 
 [Открытый сонар](https://sonarcloud.io/explore/projects) Можно бесплатно использовать для опенсорс-продуктов или посмотреть, как выглядят отчёты на примере других команд.
 
+[Gitlab Workflow для VSCode](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow)
+
 ## Books
 [Deadline. Роман об управлении проектами](https://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/)
 
@@ -42,6 +44,10 @@
 
 [Сравнение GitLab и SonarQube](https://about.gitlab.com/devops-tools/sonarqube-vs-gitlab/)
 
+[Виталий Дмитриев - три пути DevOps](https://www.youtube.com/watch?v=kCovd06lirk&t=1897s)
+
+**Проект Феникс. Роман о том, как DevOps меняет бизнес к лучшему.** Джин Ким, Джордж Спаффорд, Кевин Бер
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
@@ -55,3 +61,10 @@
 [SAST от GitLab](https://docs.gitlab.com/ee/user/application_security/sast/)
 
 [Настройка анализа проекта в SonarQube для Maven](https://docs.sonarqube.org/latest/analysis/gitlab-integration/)
+
+[Кеширование в Gitlab CI](https://docs.gitlab.com/14.10/ee/ci/caching/)
+
+[Как сделать pipeline быстрее](https://habr.com/ru/company/gitlab/blog/646579/)
+
+[Документация по Gitlab Runner](https://docs.gitlab.com/14.10/runner/configuration/)
+
