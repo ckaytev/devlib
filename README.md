@@ -48,6 +48,8 @@
 
 **Проект Феникс. Роман о том, как DevOps меняет бизнес к лучшему.** Джин Ким, Джордж Спаффорд, Кевин Бер
 
+[Статья Фаулера про сервера-фениксы и сервера-снежинки](https://martinfowler.com/bliki/SnowflakeServer.html)
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
