@@ -50,6 +50,8 @@
 
 [Статья Фаулера про сервера-фениксы и сервера-снежинки](https://martinfowler.com/bliki/SnowflakeServer.html)
 
+[An introduction to value stream mapping and analysis. Jostein Langstrand.](https://code.s3.yandex.net/FULLTEXT01.pdf)
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
