@@ -52,6 +52,10 @@
 
 [An introduction to value stream mapping and analysis. Jostein Langstrand.](https://code.s3.yandex.net/FULLTEXT01.pdf)
 
+[The Twelve-Factor App](https://12factor.net/ru/)
+
+[An illustrated guide to 12 Factor Apps by RedHat](https://www.redhat.com/architect/12-factor-app)
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
