@@ -56,6 +56,10 @@
 
 [An illustrated guide to 12 Factor Apps by RedHat](https://www.redhat.com/architect/12-factor-app)
 
+[Сравнение Nexus и Artifactory](https://www.sonatype.com/compare/sonatype-nexus-versus-jfrog-artifactory)
+
+[Сравнение Nexus и GitLab](https://about.gitlab.com/devops-tools/sonatype-nexus-repo-vs-gitlab/)
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
@@ -75,4 +79,6 @@
 [Как сделать pipeline быстрее](https://habr.com/ru/company/gitlab/blog/646579/)
 
 [Документация по Gitlab Runner](https://docs.gitlab.com/14.10/runner/configuration/)
+
+[Семантическое версионирование 2.0. Том Престон-Вернер.](https://semver.org/lang/ru/)
 
