@@ -60,6 +60,10 @@
 
 [Сравнение Nexus и GitLab](https://about.gitlab.com/devops-tools/sonatype-nexus-repo-vs-gitlab/)
 
+[История про бэкапы от Gitlab](https://habr.com/ru/company/southbridge/blog/321074/)
+
+[История про бэкапы от Pixar](https://habr.com/ru/company/veeam/blog/193568/)
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
