@@ -64,6 +64,8 @@
 
 [История про бэкапы от Pixar](https://habr.com/ru/company/veeam/blog/193568/)
 
+[Infrastructure as Code. Киф Моррис](https://infrastructure-as-code.com/book/)
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
