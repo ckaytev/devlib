@@ -66,6 +66,8 @@
 
 [Infrastructure as Code. Киф Моррис](https://infrastructure-as-code.com/book/)
 
+[Принудительное введение в системы управления конфигурациями](https://habr.com/ru/post/343644/)
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
