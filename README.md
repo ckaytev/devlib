@@ -15,6 +15,14 @@
 
 [Gitlab Workflow для VSCode](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow)
 
+[Mitogen](https://mitogen.networkgenomics.com/ansible_detailed.html) - расширение для ускорения и оптимизации Ansible
+
+[Ansible Lint](https://github.com/ansible/ansible-lint) - чуть больше чем просто YAML линтер
+
+[Ansible Molecule](https://molecule.readthedocs.io/en/latest/) - фреймворк для тестирования Ansible ролей
+
+[Ansible AWX](https://github.com/ansible/awx) - один из upstream'ов проекта [RedHat Ansible Automation Platform](https://www.ansible.com/products/automation-platform) - web ui, runtime, workflow, планировщик
+
 ## Books
 [Deadline. Роман об управлении проектами](https://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/)
 
@@ -68,6 +76,9 @@
 
 [Принудительное введение в системы управления конфигурациями](https://habr.com/ru/post/343644/)
 
+[Ansible up and Running](https://www.litres.ru/lorin-hohshteyn/zapuskaem-ansible-44336503/)
+
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
@@ -89,4 +100,8 @@
 [Документация по Gitlab Runner](https://docs.gitlab.com/14.10/runner/configuration/)
 
 [Семантическое версионирование 2.0. Том Престон-Вернер.](https://semver.org/lang/ru/)
+
+[Пример проекта Ansible, который разворачивает Wordpress c Nginx и PHP-FPM, а также MySQL.](https://github.com/ansible/ansible-examples/tree/master/wordpress-nginx)
+
+Ansible [Tips and Tricks](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html), [Best practices](https://docs.ansible.com/ansible/2.3/playbooks_best_practices.html)
 
