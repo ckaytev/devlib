@@ -105,3 +105,5 @@
 
 Ansible [Tips and Tricks](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html), [Best practices](https://docs.ansible.com/ansible/2.3/playbooks_best_practices.html)
 
+[Полезные трюки с PostgreSQL](https://www.postgresqltutorial.com/)
+
