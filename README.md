@@ -3,6 +3,7 @@
 Сборник полезных ресурсов для DevOps-инженера
 
 ## Tools
+
 [minikube](https://github.com/kubernetes/minikube)
 
 [Визуализация Git](http://git-school.github.io/visualizing-git/)
@@ -24,6 +25,7 @@
 [Ansible AWX](https://github.com/ansible/awx) - один из upstream'ов проекта [RedHat Ansible Automation Platform](https://www.ansible.com/products/automation-platform) - web ui, runtime, workflow, планировщик
 
 ## Books
+
 [Deadline. Роман об управлении проектами](https://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/)
 
 [Никогда не ешьте в одиночку](https://www.litres.ru/keyt-ferracci/nikogda-ne-eshte-v-odinochku-i-drugie-pravila-netvorkinga/chitat-onlayn/)
@@ -32,21 +34,31 @@
 
 **Постигая Agile: ценности, принципы и методологии.** Эндрю Стеллман и Дженнифер Грин
 
-[Оригинальный Манифест Agile](http://agilemanifesto.org/principles.html)
-
-[История создания Agile-манифеста](https://vc.ru/u/439760-dmitriy-blinov/207822-istoriya-sozdaniya-agile-manifesta)
-
 **Pro Git** Скотт Шакон
 
 **Бережливое производство: Как избавиться от потерь и добиться процветания вашей компании.** Джеймс П. Вумек, Дэниел Джонс
-
-Видео [How Toyota Changed The Way We Make Things](https://www.youtube.com/watch?v=F5vtCRFRAK0)
 
 **Continuous delivery. Практика непрерывных апдейтов.** Эберхард Вольф
 
 **Непрерывное развёртывание ПО. Автоматизация процессов сборки, тестирования и внедрения новых версий программ.** Джез Хамбл
 
+**Проект Феникс. Роман о том, как DevOps меняет бизнес к лучшему.** Джин Ким, Джордж Спаффорд, Кевин Бер
+
+[An introduction to value stream mapping and analysis. Jostein Langstrand.](https://code.s3.yandex.net/FULLTEXT01.pdf)
+
+[Infrastructure as Code. Киф Моррис](https://infrastructure-as-code.com/book/)
+
+[Ansible up and Running](https://www.litres.ru/lorin-hohshteyn/zapuskaem-ansible-44336503/)
+
+## Links. Best Practices
+
+[Оригинальный Манифест Agile](http://agilemanifesto.org/principles.html)
+
+[История создания Agile-манифеста](https://vc.ru/u/439760-dmitriy-blinov/207822-istoriya-sozdaniya-agile-manifesta)
+
 [Мастер-класс Бориса Вольфсона. Основы Agile.](https://habr.com/ru/company/vk/blog/272237/)
+
+Видео [How Toyota Changed The Way We Make Things](https://www.youtube.com/watch?v=F5vtCRFRAK0)
 
 [О применении Jenkins](https://habr.com/ru/company/yoomoney/blog/538664/)
 
@@ -54,11 +66,7 @@
 
 [Виталий Дмитриев - три пути DevOps](https://www.youtube.com/watch?v=kCovd06lirk&t=1897s)
 
-**Проект Феникс. Роман о том, как DevOps меняет бизнес к лучшему.** Джин Ким, Джордж Спаффорд, Кевин Бер
-
 [Статья Фаулера про сервера-фениксы и сервера-снежинки](https://martinfowler.com/bliki/SnowflakeServer.html)
-
-[An introduction to value stream mapping and analysis. Jostein Langstrand.](https://code.s3.yandex.net/FULLTEXT01.pdf)
 
 [The Twelve-Factor App](https://12factor.net/ru/)
 
@@ -72,12 +80,15 @@
 
 [История про бэкапы от Pixar](https://habr.com/ru/company/veeam/blog/193568/)
 
-[Infrastructure as Code. Киф Моррис](https://infrastructure-as-code.com/book/)
-
 [Принудительное введение в системы управления конфигурациями](https://habr.com/ru/post/343644/)
 
-[Ansible up and Running](https://www.litres.ru/lorin-hohshteyn/zapuskaem-ansible-44336503/)
+[В целом о Liquibase и о changeset.](https://habr.com/ru/post/178665/)
 
+[Что такое changeset.](https://habr.com/ru/post/251617/)
+
+[Подходы к версионированию изменений БД.](https://habr.com/ru/post/330662/)
+
+[Лучшие GUI для MongoDB в 2021 году](https://habr.com/ru/post/330662/)
 
 ## Instructions
 
@@ -106,4 +117,6 @@
 Ansible [Tips and Tricks](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html), [Best practices](https://docs.ansible.com/ansible/2.3/playbooks_best_practices.html)
 
 [Полезные трюки с PostgreSQL](https://www.postgresqltutorial.com/)
+
+
 
