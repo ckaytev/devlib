@@ -50,6 +50,8 @@
 
 [Ansible up and Running](https://www.litres.ru/lorin-hohshteyn/zapuskaem-ansible-44336503/)
 
+[Базы данных. Инжиниринг надёжности. Лейн Кэмпбелл, Черити Мейджорс.](https://www.google.ru/books/edition/%D0%91%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%98%D0%BD%D0%B6%D0%B8%D0%BD%D0%B8%D1%80%D0%B8%D0%BD/0pTcDwAAQBAJ?hl=ru&gbpv=1&printsec=frontcover)
+
 ## Links. Best Practices
 
 [Оригинальный Манифест Agile](http://agilemanifesto.org/principles.html)
@@ -90,6 +92,8 @@
 
 [Лучшие GUI для MongoDB в 2021 году](https://habr.com/ru/post/330662/)
 
+Доклад Олега Анастасьева — [Эффективные надёжные микросервисы.](https://youtu.be/x9tvJjWCrr4)
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
@@ -118,5 +122,5 @@ Ansible [Tips and Tricks](https://docs.ansible.com/ansible/latest/user_guide/pla
 
 [Полезные трюки с PostgreSQL](https://www.postgresqltutorial.com/)
 
-
+[Основы MongoDB за 5 минут (eng).](https://dzone.com/articles/mongodb-basics-in-5-minutes)
 
