@@ -24,6 +24,10 @@
 
 [Ansible AWX](https://github.com/ansible/awx) - один из upstream'ов проекта [RedHat Ansible Automation Platform](https://www.ansible.com/products/automation-platform) - web ui, runtime, workflow, планировщик
 
+Фреймворк [Testifnra](https://testinfra.readthedocs.io/en/latest/modules.html) для функциональных тестов
+
+[Kubespray](https://github.com/kubernetes-sigs/kubespray) - хороший пример того, как можно использовать модули command и shell
+
 ## Books
 
 [Deadline. Роман об управлении проектами](https://www.litres.ru/tom-demarko/deadline-roman-ob-upravlenii-proektami/)
@@ -93,6 +97,8 @@
 [Лучшие GUI для MongoDB в 2021 году](https://habr.com/ru/post/330662/)
 
 Доклад Олега Анастасьева — [Эффективные надёжные микросервисы.](https://youtu.be/x9tvJjWCrr4)
+
+[Худшие практики Ansible](https://habr.com/ru/post/536256/)
 
 ## Instructions
 
