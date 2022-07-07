@@ -29,6 +29,8 @@
 
 [Kubespray](https://github.com/kubernetes-sigs/kubespray) - хороший пример того, как можно использовать модули command и shell
 
+[Линтер для Dockerfile — Haskell Dockerfile Linter](https://github.com/hadolint/hadolint)
+
 
 ## Books
 
@@ -111,7 +113,11 @@
 
 [Худшие практики Ansible](https://habr.com/ru/post/536256/)
 
-[Доклад «Docker в банке».](https://www.youtube.com/watch?v=Jb62_R8WnII&ab_channel=%D0%A1odeFreezeVideo)
+[Доклад «Docker в банке»](https://www.youtube.com/watch?v=Jb62_R8WnII&ab_channel=%D0%A1odeFreezeVideo)
+
+[Сборник лучших практик по написанию Dockerfile](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+
+
 
 
 ## Instructions
@@ -143,4 +149,8 @@ Ansible [Tips and Tricks](https://docs.ansible.com/ansible/latest/user_guide/pla
 [Полезные трюки с PostgreSQL](https://www.postgresqltutorial.com/)
 
 [Основы MongoDB за 5 минут (eng).](https://dzone.com/articles/mongodb-basics-in-5-minutes)
+
+[Подробный гайд по сборке NodeJS приложений в Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+
+[Шпаргалка с командами Docker — Docker Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
 
