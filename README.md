@@ -2,6 +2,7 @@
 
 Сборник полезных ресурсов для DevOps-инженера
 
+
 ## Tools
 
 [minikube](https://github.com/kubernetes/minikube)
@@ -27,6 +28,7 @@
 Фреймворк [Testifnra](https://testinfra.readthedocs.io/en/latest/modules.html) для функциональных тестов
 
 [Kubespray](https://github.com/kubernetes-sigs/kubespray) - хороший пример того, как можно использовать модули command и shell
+
 
 ## Books
 
@@ -55,6 +57,15 @@
 [Ansible up and Running](https://www.litres.ru/lorin-hohshteyn/zapuskaem-ansible-44336503/)
 
 [Базы данных. Инжиниринг надёжности. Лейн Кэмпбелл, Черити Мейджорс.](https://www.google.ru/books/edition/%D0%91%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%98%D0%BD%D0%B6%D0%B8%D0%BD%D0%B8%D1%80%D0%B8%D0%BD/0pTcDwAAQBAJ?hl=ru&gbpv=1&printsec=frontcover)
+
+**«Использование Docker»** Эдриен Моуэт
+
+**«Docker in Action. Second Edition»** Jeff Nickoloff, Stephen Kuenzli
+ 
+**«Безопасность контейнеров»** Лиз Райс
+ 
+**«Docker in Practice. Second Edition»** Ian Miell and Aidan Hobson Sayers
+  
 
 ## Links. Best Practices
 
@@ -99,6 +110,9 @@
 Доклад Олега Анастасьева — [Эффективные надёжные микросервисы.](https://youtu.be/x9tvJjWCrr4)
 
 [Худшие практики Ansible](https://habr.com/ru/post/536256/)
+
+[Доклад «Docker в банке».](https://www.youtube.com/watch?v=Jb62_R8WnII&ab_channel=%D0%A1odeFreezeVideo)
+
 
 ## Instructions
 
