@@ -117,6 +117,8 @@
 
 [Сборник лучших практик по написанию Dockerfile](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
+[WAFL](https://habr.com/en/company/netapp/blog/99832/)
+
 
 
 
@@ -153,4 +155,8 @@ Ansible [Tips and Tricks](https://docs.ansible.com/ansible/latest/user_guide/pla
 [Подробный гайд по сборке NodeJS приложений в Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 
 [Шпаргалка с командами Docker — Docker Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
+
+[ZFS](https://docs.oracle.com/cd/E19253-01/820-0836/zfsover-2/index.html)
+
+
 
