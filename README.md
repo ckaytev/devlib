@@ -31,6 +31,10 @@
 
 [Линтер для Dockerfile — Haskell Dockerfile Linter](https://github.com/hadolint/hadolint)
 
+Альтернативы Docker [Podman](https://podman.io/), [Buildah](https://buildah.io/)
+
+[Jib](https://github.com/GoogleContainerTools/jib) - утилита для упаковки Java приложений в Docker образы
+
 
 ## Books
 
@@ -67,7 +71,9 @@
 **«Безопасность контейнеров»** Лиз Райс
  
 **«Docker in Practice. Second Edition»** Ian Miell and Aidan Hobson Sayers
-  
+
+[Docker Deep Dive](https://www.oreilly.com/library/view/docker-deep-dive/9781800565135/)
+
 
 ## Links. Best Practices
 
@@ -117,9 +123,13 @@
 
 [Сборник лучших практик по написанию Dockerfile](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
+[Теперь Dockerfiles поддерживает Multiple Build Contexts](https://habr.com/ru/company/kts/blog/666182/)
+
+[Собираем Docker-образы быстро и удобно](https://www.youtube.com/watch?v=7K6tW_Enhwg)
+
+[Лучшие практики CD с Docker](https://www.youtube.com/watch?v=FVFhqb1CbRc&t=1670s)
+
 [WAFL](https://habr.com/en/company/netapp/blog/99832/)
-
-
 
 
 ## Instructions
