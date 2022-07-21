@@ -74,6 +74,14 @@
 
 [Docker Deep Dive](https://www.oreilly.com/library/view/docker-deep-dive/9781800565135/)
 
+[Создание микросервисов. Сэм Ньюман](https://www.livelib.ru/book/1001502980-sozdanie-mikroservisov-sem-nyumen)
+
+[Microservices in Action. Morgan Bruce and Paulo A. Pereira](https://www.oreilly.com/library/view/microservices-in-action/9781617294457/)
+
+[От монолита к микросервисам. Сэм Ньюман](https://bhv.ru/product/ot-monolita-k-mikroservisam/)
+
+[Микросервисы. Паттерны разработки и рефакторинга. К. Ричардсон](https://www.piter.com/product/mikroservisy-patterny-razrabotki-i-refaktoringa)
+
 
 ## Links. Best Practices
 
@@ -130,6 +138,8 @@
 [Лучшие практики CD с Docker](https://www.youtube.com/watch?v=FVFhqb1CbRc&t=1670s)
 
 [WAFL](https://habr.com/en/company/netapp/blog/99832/)
+
+[Микросервисы vs. Монолит](https://habr.com/en/company/yandex_praktikum/blog/570024/)
 
 
 ## Instructions
