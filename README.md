@@ -82,6 +82,9 @@
 
 [Микросервисы. Паттерны разработки и рефакторинга. К. Ричардсон](https://www.piter.com/product/mikroservisy-patterny-razrabotki-i-refaktoringa)
 
+[Распределённые системы. Паттерны проектирования. Брендан Бёрнс] (https://www.google.ru/books/edition/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5/QaPODwAAQBAJ?hl=ru&gbpv=1&printsec=frontcover)
+
+[NGINX Cookbook. Tim Butler](https://www.amazon.com/NGINX-Cookbook-Tim-Butler/dp/1786466171)
 
 ## Links. Best Practices
 
