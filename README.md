@@ -144,6 +144,10 @@
 
 [Микросервисы vs. Монолит](https://habr.com/en/company/yandex_praktikum/blog/570024/)
 
+[История рождения Kubernetes](https://queue.acm.org/detail.cfm?id=2898444)
+
+[Container Isolation Gone Wrong](https://dzone.com/articles/container-isolation-gone-wrong)
+
 
 ## Instructions
 
