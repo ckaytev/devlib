@@ -148,6 +148,8 @@
 
 [Container Isolation Gone Wrong](https://dzone.com/articles/container-isolation-gone-wrong)
 
+[Обзор инструментов запуска тестового кластера Kubernetes](https://habr.com/en/company/flant/blog/572188/)
+
 
 ## Instructions
 
