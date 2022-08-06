@@ -35,6 +35,12 @@
 
 [Jib](https://github.com/GoogleContainerTools/jib) - утилита для упаковки Java приложений в Docker образы
 
+[Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes) - базовый бесплатный курс для введения в Kubernetes от Linux Foundation и CNCF
+
+[Kubernetes challenges -](https://kodekloud.com/courses/kubernetes-challenges/) - задачи для укрепления знаний базовых концепций
+
+[Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - легендарный репозиторий Kelsey Hightower с туториалами по самостоятельной сборке k8s и всех нужных ему компонентов
+
 
 ## Books
 
@@ -82,7 +88,7 @@
 
 [Микросервисы. Паттерны разработки и рефакторинга. К. Ричардсон](https://www.piter.com/product/mikroservisy-patterny-razrabotki-i-refaktoringa)
 
-[Распределённые системы. Паттерны проектирования. Брендан Бёрнс] (https://www.google.ru/books/edition/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5/QaPODwAAQBAJ?hl=ru&gbpv=1&printsec=frontcover)
+[Распределённые системы. Паттерны проектирования. Брендан Бёрнс](https://www.google.ru/books/edition/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D1%81%D1%82%D0%B5/QaPODwAAQBAJ?hl=ru&gbpv=1&printsec=frontcover)
 
 [NGINX Cookbook. Tim Butler](https://www.amazon.com/NGINX-Cookbook-Tim-Butler/dp/1786466171)
 
@@ -149,6 +155,10 @@
 [Container Isolation Gone Wrong](https://dzone.com/articles/container-isolation-gone-wrong)
 
 [Обзор инструментов запуска тестового кластера Kubernetes](https://habr.com/en/company/flant/blog/572188/)
+
+[How does Kubernetes create a Pod](https://www.youtube.com/watch?v=BgrQ16r84pM) - что происходит "под капотом" при создании пода
+
+[Dидео от IBM](https://www.youtube.com/watch?v=OmphHSaO1sE) о том что такое ETCD
 
 
 ## Instructions
