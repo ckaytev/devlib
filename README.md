@@ -92,6 +92,9 @@
 
 [NGINX Cookbook. Tim Butler](https://www.amazon.com/NGINX-Cookbook-Tim-Butler/dp/1786466171)
 
+**«Kubernetes в действии»** Лукша Марко
+
+
 ## Links. Best Practices
 
 [Оригинальный Манифест Agile](http://agilemanifesto.org/principles.html)
@@ -159,6 +162,10 @@
 [How does Kubernetes create a Pod](https://www.youtube.com/watch?v=BgrQ16r84pM) - что происходит "под капотом" при создании пода
 
 [Dидео от IBM](https://www.youtube.com/watch?v=OmphHSaO1sE) о том что такое ETCD
+
+[Liveness и Readiness пробы](https://habr.com/ru/company/southbridge/blog/467155/)
+
+[Основы Kubernetes](https://habr.com/ru/post/589415/)
 
 
 ## Instructions
