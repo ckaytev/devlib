@@ -167,6 +167,8 @@
 
 [Основы Kubernetes](https://habr.com/ru/post/589415/)
 
+[Вертикальное автомасштабирование pod'ов в K8s](https://habr.com/ru/company/flant/blog/541642/)
+
 
 ## Instructions
 
@@ -203,6 +205,8 @@ Ansible [Tips and Tricks](https://docs.ansible.com/ansible/latest/user_guide/pla
 [Шпаргалка с командами Docker — Docker Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
 
 [ZFS](https://docs.oracle.com/cd/E19253-01/820-0836/zfsover-2/index.html)
+
+[Шпаргалка по консольной утилите kubectl](https://kubernetes.io/ru/docs/reference/kubectl/cheatsheet/)
 
 
 
