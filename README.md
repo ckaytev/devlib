@@ -41,6 +41,8 @@
 
 [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - легендарный репозиторий Kelsey Hightower с туториалами по самостоятельной сборке k8s и всех нужных ему компонентов
 
+[Репозиторий c популярными Helm-чартами](https://artifacthub.io/packages/search?kind=0)
+
 
 ## Books
 
@@ -169,6 +171,18 @@
 
 [Вертикальное автомасштабирование pod'ов в K8s](https://habr.com/ru/company/flant/blog/541642/)
 
+[Best practices для написания чартов](https://helm.sh/docs/chart_best_practices/conventions/)
+
+[Читы и хаки в Helm](https://helm.sh/docs/howto/charts_tips_and_tricks/)
+
+[Погружение в Helm package manager](https://www.youtube.com/watch?v=sPXqhKp7jV0&list=PLXd8LTl0ooLPgjnVMs4CL8AtHBvxM1e6L&index=7)
+
+[Новые фичи ArgoCD ](https://www.youtube.com/watch?v=LxlSWm3kjXY&t=3785s)
+
+[Внедрение GitOps практик](https://www.youtube.com/watch?v=cdYMi2EAnJ8)
+
+[Имплементация DevOps в Яндекс и Яндекс Облаке](https://www.youtube.com/watch?v=a4gBRrhba0c)
+
 
 ## Instructions
 
@@ -207,6 +221,4 @@ Ansible [Tips and Tricks](https://docs.ansible.com/ansible/latest/user_guide/pla
 [ZFS](https://docs.oracle.com/cd/E19253-01/820-0836/zfsover-2/index.html)
 
 [Шпаргалка по консольной утилите kubectl](https://kubernetes.io/ru/docs/reference/kubectl/cheatsheet/)
-
-
 
