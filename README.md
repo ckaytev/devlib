@@ -96,6 +96,8 @@
 
 **«Kubernetes в действии»** Лукша Марко
 
+**GitOps and Kubernetes** Billy Yuen, Jesse Suen, Alex Matyushentsev, Todd Ekenstam
+
 
 ## Links. Best Practices
 
