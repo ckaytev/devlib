@@ -98,6 +98,8 @@
 
 **GitOps and Kubernetes** Billy Yuen, Jesse Suen, Alex Matyushentsev, Todd Ekenstam
 
+**Practical Monitoring** Mike Julian
+
 
 ## Links. Best Practices
 
@@ -184,6 +186,10 @@
 [Внедрение GitOps практик](https://www.youtube.com/watch?v=cdYMi2EAnJ8)
 
 [Имплементация DevOps в Яндекс и Яндекс Облаке](https://www.youtube.com/watch?v=a4gBRrhba0c)
+
+[ELK vs Graylog vs Grafana Loki vs Monq](https://habr.com/ru/post/594805/)
+
+[DevOps measurement: Monitoring and observability](https://cloud.google.com/architecture/devops/devops-measurement-monitoring-and-observability)
 
 
 ## Instructions
