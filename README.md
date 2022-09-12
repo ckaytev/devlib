@@ -43,6 +43,8 @@
 
 [Репозиторий c популярными Helm-чартами](https://artifacthub.io/packages/search?kind=0)
 
+[Jaeger — популярный инструмент для распределённой трассировки](https://www.jaegertracing.io/docs/)
+
 
 ## Books
 
@@ -190,6 +192,12 @@
 [ELK vs Graylog vs Grafana Loki vs Monq](https://habr.com/ru/post/594805/)
 
 [DevOps measurement: Monitoring and observability](https://cloud.google.com/architecture/devops/devops-measurement-monitoring-and-observability)
+
+[Про мониторинг из книги SRE](https://sre.google/sre-book/monitoring-distributed-systems/)
+
+[DevOps measurement: Monitoring and observability](https://cloud.google.com/architecture/devops/devops-measurement-monitoring-and-observability)
+
+[Какие ещё бывают подходы к мониторингу: RED и USE](https://medium.com/thron-tech/how-we-implemented-red-and-use-metrics-for-monitoring-9a7db29382af)
 
 
 ## Instructions
