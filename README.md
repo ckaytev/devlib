@@ -1,7 +1,10 @@
-# devlib
+# Сборник полезных ресурсов для DevOps-инженера
 
-Сборник полезных ресурсов для DevOps-инженера
+| [Инструменты](../main/README.md#tools)                 | [Бест практис](../main/README.md#links-best-practices) | 
+| -------------                                          |:------------------:                                    |
+|  [Книги](../main/README.md#books)                      |   [Инструкции](../main/README.md#instructions)         |
 
+![devops](https://user-images.githubusercontent.com/103020561/189642686-a1cf5701-7d0c-402a-9f2b-e30012a555ed.jpg)
 
 ## Tools
 
