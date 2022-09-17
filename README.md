@@ -202,6 +202,9 @@
 
 [Какие ещё бывают подходы к мониторингу: RED и USE](https://medium.com/thron-tech/how-we-implemented-red-and-use-metrics-for-monitoring-9a7db29382af)
 
+[Being On-Call](https://response.pagerduty.com/oncall/being_oncall/)
+
+[Postmortem Culture: Learning from Failure](https://sre.google/sre-book/postmortem-culture/)
 
 ## Instructions
 
