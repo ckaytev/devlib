@@ -8,6 +8,8 @@
 
 ## Tools
 
+[Периодическая таблица инструментов DevOps](https://digital.ai/devops-tools-periodic-table)
+
 [minikube](https://github.com/kubernetes/minikube)
 
 [Визуализация Git](http://git-school.github.io/visualizing-git/)
@@ -104,6 +106,12 @@
 **GitOps and Kubernetes** Billy Yuen, Jesse Suen, Alex Matyushentsev, Todd Ekenstam
 
 **Practical Monitoring** Mike Julian
+
+**Руководство по DevOps** Джен Ким Патрик Дебуа Джон Уиллис Джез Хамбл
+
+**Ускоряйся!** Форсгрен Н., Хамбл Д., Ким Д.
+
+**Открывая организации будущего** Фредерик Лалу
 
 
 ## Links. Best Practices
@@ -206,6 +214,13 @@
 
 [Postmortem Culture: Learning from Failure](https://sre.google/sre-book/postmortem-culture/)
 
+[Антон Вайс — Путь ДевУпс-героя](https://www.youtube.com/watch?v=O7JSB9p4NnU)
+
+[DevOps фреймворк от Adidas](https://github.com/adidas/adidas-devops-maturity-framework/blob/master/framework/devops_maturity_framework.md)
+
+[Тест по определению уровня своей организации](https://blog.mann-ivanov-ferber.ru/2017/04/14/test-naskolko-biryuzovaya-vasha-organizaciya/)
+
+
 ## Instructions
 
 [Базовая презентация по Git](https://code.s3.yandex.net/devops/GITver2.pdf)
@@ -243,4 +258,5 @@ Ansible [Tips and Tricks](https://docs.ansible.com/ansible/latest/user_guide/pla
 [ZFS](https://docs.oracle.com/cd/E19253-01/820-0836/zfsover-2/index.html)
 
 [Шпаргалка по консольной утилите kubectl](https://kubernetes.io/ru/docs/reference/kubectl/cheatsheet/)
+
 
